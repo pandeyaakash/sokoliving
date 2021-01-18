@@ -14,9 +14,8 @@ function intaMojoShop() {
 </head>
 <body>
 
-<div class="container">
-  <h2>Soko Living</h2>
-  <h3><p>Soko Living, Soko Lage!!</p></h3>
+<div>
+  <h3><p>Soko Living, Soko Lage ..... !!</p></h3>
   <br>
   <br>
   <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#FloralT">Floral Tisane</button>
