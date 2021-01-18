@@ -14,7 +14,7 @@ function intaMojoShop() {
 </head>
 <body>
 
-<div>
+<div align="left">
   <h3><p>Soko Living, Soko Lage ..... !!</p></h3>
   <br>
   <br>
