@@ -1,4 +1,3 @@
-# sokoliving
 
 <!DOCTYPE html>
 <html>
@@ -11,10 +10,22 @@
 <body>
 
 <div class="container">
-  <h2>Soko Living</h2>
   <p>This is soko living</p>
-  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Soko Living Collapsable</button>
-  <div id="demo" class="collapse">
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Floral Tisane</button>
+  <div id="FloralT" class="collapse">
         <img align="center" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/1.jpeg?raw=true" /> 
+  </div>
+    <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Sab Spice Tisane</button>
+  <div id="sabspice" class="collapse">
+        <img align="center" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/2.jpeg?raw=true" /> 
+  </div>
+    <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Floral Coffee</button>
+  <div id="FloralC" class="collapse">
+        <img align="center" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/3.jpeg?raw=true" /> 
+  </div>
+  
+  
+  <div>
+  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo" href="https://sokoliving.stores.instamojo.com/">Shop Now</button>
   </div>
 </div>
