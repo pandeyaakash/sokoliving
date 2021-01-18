@@ -15,6 +15,6 @@
   <p>This is soko living</p>
   <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Soko Living Collapsable</button>
   <div id="demo" class="collapse">
-        <img align="center" src="https://github.com/pandeyaakash/sokoliving/images/1.jpeg?raw=true" /> 
+        <img align="center" src="https://github.com/pandeyaakash/sokoliving/blob/images/1.jpeg?raw=true" /> 
   </div>
 </div>
