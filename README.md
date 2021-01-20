@@ -29,7 +29,7 @@ height: auto;
 .headtext {
 color: white;
 background-color: #EC008C;
-margin-top: 15%;
+margin-top: 25%;
 padding-left: 50px;
 padding-top: 10px;
 padding-bottom: 10px;
@@ -59,25 +59,19 @@ ul li:before {
 </style>
 
 <head>
-
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-  <script>
-function intaMojoShop() {
-  location.replace("https://sokoliving.stores.instamojo.com/")
-}
-</script>
 </head>
-<body>
 
+
+<body>
 <div class="bg-image">
-<img class="bg-left" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/logo1.png?raw=true" />
+<img class="bg-left" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/1.jpg?raw=true" />
 <img class="bg-right" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/logo2.png?raw=true" />
 </div>
 <h3 class="headtext">Coffees and Tisanes</h3>
-
 <div align="left">
 
   <br>
