@@ -129,5 +129,7 @@ img.center {
   <img class="center" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true" />
   </a>
  </div>
+ <h2 color="#696969" align="center"><b>Contact us</b></h2>
+ <h2 color="#696969" align="center"><b>sokoliving@gmail.com</b></h2>
   </div>
 
