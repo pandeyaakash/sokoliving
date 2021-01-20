@@ -119,7 +119,7 @@ ul li:before {
   <h2 color="#696969" align="center">Soko Living , Soko Lage</h2>
   <h3 color="#696969" align="center">सोको लीिवंग, सोको लाग</h3>
   <a  href="https://sokoliving.stores.instamojo.com/">
-  <img margin-right="auto" margin-left="auto" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true" align="center" max-width="50%" height="auto" />
+  <img display="block" margin-right="auto" margin-left="auto" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true" width="50%" height="auto" />
   </a>
   </div>
 </div>
