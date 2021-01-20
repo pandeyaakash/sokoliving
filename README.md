@@ -88,36 +88,31 @@ function intaMojoShop() {
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/1.jpg?raw=true" /> 
   </div>
   </li>
-  <br>
-  <br>
+
     <li><button type="button" class="btn" data-toggle="collapse" data-target="#GMC"><h2 color="#696969" ><i>Gulab Mint Coffee</i></h2></button>
   <div id="GMC" class="collapse">
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/2.jpg?raw=true" /> 
   </div>
   </li>
-  <br>
-  <br>
+
     <li><button type="button" class="btn" data-toggle="collapse" data-target="#HGT"><h2 color="#696969" ><i>Hibiscus Gulab Tisane</i></h2></button>
   <div id="HGT" class="collapse">
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/3.jpg?raw=true" /> 
   </div>
   </li>
-  <br>
-  <br>
+
     <li><button type="button" class="btn" data-toggle="collapse" data-target="#LC"><h2 color="#696969" ><i>Genda Tisane</i></h2></button>
   <div id="GT" class="collapse">
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/4.jpg?raw=true" /> 
   </div>
   </li>
-  <br>
-  <br>
+
     <li><button type="button" class="btn" data-toggle="collapse" data-target="#LT"><h2 color="#696969" ><i>Lavomile Tisane</i></h2></button>
   <div id="LT" class="collapse">
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/5.jpg?raw=true" /> 
   </div>
   </li>
-  <br>
-  <br>
+
     <li><button type="button" class="btn" data-toggle="collapse" data-target="#LC"><h2 color="#696969" ><i>Sab Spice Tisane</i></h2></button>
   <div id="SST" class="collapse">
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/6.jpg?raw=true" /> 
@@ -126,14 +121,11 @@ function intaMojoShop() {
   </ul>
   <br>
   <br>
-  <br>
-  <br>
-  <br>
   <div>
   <h2 color="#696969" align="center">Soko Living , Soko Lage</h2>
   <h3 color="#696969" align="center">सोको लीिवंग, सोको लाग</h3>
   <a href="https://sokoliving.stores.instamojo.com/">
-  <img src="https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true" align="center" max-width="20%" height="auto" />
+  <img align="center" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true" align="center" max-width="20%" height="auto" />
   </a>
   </div>
 </div>
