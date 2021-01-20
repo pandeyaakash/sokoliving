@@ -29,7 +29,7 @@ height: auto;
 .headtext {
 color: white;
 background-color: #EC008C;
-margin-top: 25%;
+margin-top: 15%;
 padding-left: 50px;
 padding-top: 10px;
 padding-bottom: 10px;
@@ -68,7 +68,7 @@ ul li:before {
 
 <body>
 <div class="bg-image">
-<img class="bg-left" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/1.jpg?raw=true" />
+<img class="bg-left" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/logo1.png?raw=true" />
 <img class="bg-right" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/logo2.png?raw=true" />
 </div>
 <h3 class="headtext">Coffees and Tisanes</h3>
@@ -95,7 +95,7 @@ ul li:before {
   </div>
   </li>
 
-    <li><button type="button" class="btn" data-toggle="collapse" data-target="#LC"><h2 color="#696969" ><i>Genda Tisane</i></h2></button>
+    <li><button type="button" class="btn" data-toggle="collapse" data-target="#GT"><h2 color="#696969" ><i>Genda Tisane</i></h2></button>
   <div id="GT" class="collapse">
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/4.jpg?raw=true" /> 
   </div>
@@ -107,7 +107,7 @@ ul li:before {
   </div>
   </li>
 
-    <li><button type="button" class="btn" data-toggle="collapse" data-target="#LC"><h2 color="#696969" ><i>Sab Spice Tisane</i></h2></button>
+    <li><button type="button" class="btn" data-toggle="collapse" data-target="#SST"><h2 color="#696969" ><i>Sab Spice Tisane</i></h2></button>
   <div id="SST" class="collapse">
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/6.jpg?raw=true" /> 
   </div>
@@ -118,8 +118,8 @@ ul li:before {
   <div>
   <h2 color="#696969" align="center">Soko Living , Soko Lage</h2>
   <h3 color="#696969" align="center">सोको लीिवंग, सोको लाग</h3>
-  <a href="https://sokoliving.stores.instamojo.com/">
-  <img align="center" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true" align="center" max-width="20%" height="auto" />
+  <a align="center" href="https://sokoliving.stores.instamojo.com/">
+  <img  src="https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true" align="center" max-width="20%" height="auto" />
   </a>
   </div>
 </div>
