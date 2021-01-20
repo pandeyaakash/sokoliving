@@ -118,8 +118,8 @@ ul li:before {
   <div>
   <h2 color="#696969" align="center">Soko Living , Soko Lage</h2>
   <h3 color="#696969" align="center">सोको लीिवंग, सोको लाग</h3>
-  <a align="center" href="https://sokoliving.stores.instamojo.com/">
-  <img  src="https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true" align="center" max-width="20%" height="auto" />
+  <a  href="https://sokoliving.stores.instamojo.com/">
+  <img margin-right="auto" margin-left="auto" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true" align="center" max-width="50%" height="auto" />
   </a>
   </div>
 </div>
