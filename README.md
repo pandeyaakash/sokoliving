@@ -120,6 +120,7 @@ img.center {
   </ul>
   <br>
   <br>
+  </div>
   <div>
   <h2 color="#696969" align="center">Soko Living , Soko Lage</h2>
   <h3 color="#696969" align="center">सोको लीिवंग, सोको लाग</h3>
@@ -129,4 +130,4 @@ img.center {
   </a>
  </div>
   </div>
-</div>
+
