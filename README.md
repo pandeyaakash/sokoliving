@@ -56,6 +56,11 @@ ul li:before {
    font-size: 300%; /* or whatever */
    vertical-align:middle;
 }
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
 </style>
 
 <head>
@@ -119,7 +124,7 @@ ul li:before {
   <h2 color="#696969" align="center">Soko Living , Soko Lage</h2>
   <h3 color="#696969" align="center">सोको लीिवंग, सोको लाग</h3>
   <a  href="https://sokoliving.stores.instamojo.com/">
-  <img display="block" margin-right="auto" margin-left="auto" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true" width="50%" height="auto" />
+  <img class="center" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true" />
   </a>
   </div>
 </div>
