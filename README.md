@@ -8,7 +8,6 @@
  .flex-container {
   display: flex;
   flex-wrap: nowrap;
-  max-height: 50%;
 }
 
  
@@ -25,7 +24,7 @@ font-size: 16px;
 .btn {
   border: none;
   background-color: inherit;
-  padding: 14px 28px;
+  padding: 0px;
   font-size: 40px;
   cursor: pointer;
   display: inline-block;
@@ -42,7 +41,7 @@ ul {
 ul li:before {
    color: #EC008C;
    content: "•";
-   font-size: 40px; /* or whatever */
+   font-size: 30px; /* or whatever */
    vertical-align:middle;
 }
 
@@ -74,7 +73,6 @@ img.banner{
 <p class="headtext"><b>Coffees and Tisanes</b></p>
 <div align="left">
 
-  <br>
   <ul>
   <li><button type="button" class="btn" data-toggle="collapse" data-target="#LC"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Lavender Coffee</i></b></p></button>
   <div id="LC" class="collapse">
