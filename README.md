@@ -6,7 +6,7 @@
  
  
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://github.com/pandeyaakash/sokoliving/blob/main/images/banner.jpg?raw=true");
+  background-image: url("https://github.com/pandeyaakash/sokoliving/blob/main/images/banner.jpg?raw=true");
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -14,6 +14,11 @@
   position: relative;
 }
 
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
  
 
 .headtext {
