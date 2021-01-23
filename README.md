@@ -8,9 +8,7 @@
  .flex-container {
   display: flex;
   flex-wrap: nowrap;
-  height: 50%;
-  width: 100%;
-  margin-top: -17%;
+  max-height: 50%;
 }
 
  
