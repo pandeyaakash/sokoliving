@@ -8,7 +8,9 @@
  .flex-container {
   display: flex;
   flex-wrap: nowrap;
-  max-height: 50%;
+  height: 50%;
+  width: 100%;
+  margin-top: -17%;
 }
 
  
@@ -25,8 +27,7 @@ font-size: 16px;
 .btn {
   border: none;
   background-color: inherit;
-  padding: 14px 28px;
-  font-size: 40px;
+  padding: 0px;
   cursor: pointer;
   display: inline-block;
 }
@@ -53,8 +54,8 @@ img.center {
 }
 
 img.banner{
-	max-height:50%;
-	margin-top:-15%;
+	height:100%;
+	width: auto;
 }
 </style>
 
