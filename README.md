@@ -10,6 +10,7 @@
   flex-wrap: nowrap;
   max-height: 40%;
   width: 100%
+  margin-top: -15%
 }
 
  
