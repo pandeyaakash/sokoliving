@@ -8,7 +8,7 @@
  .flex-container {
   display: flex;
   flex-wrap: nowrap;
-  margin-top: -15%;
+  margin-top: -10%;
 }
 
 .bg-image {
