@@ -7,11 +7,11 @@
  
 .hero-image {
   background-image: url("https://github.com/pandeyaakash/sokoliving/blob/main/images/banner.jpg?raw=true");
-  height: 50%;
+  width: 100%;
+  height: 405px;
+  background-color: purple;
   background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
+
 }
 
 body, html {
