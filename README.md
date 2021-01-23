@@ -4,15 +4,40 @@
 
 <style>
  
-.bg-image {
-max-height: 40%;
+ 
+ .flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+
 }
+
+.bg-image {
+background-color: #3B5765;
+max-height: 40%;
+
+}
+ 
+.bg-left {
+vertical-align:top;
+margin-left: 10px;
+width: auto;
+max-height: 40%;
+background-color: #3B5765;
+}
+.bg-right {
+float: right;
+vertical-align:top;
+margin-top: -15%;
+margin-left: 70%;
+width: 30%;
+height: auto;
+}
+
  
 
 .headtext {
 color: white;
 background-color: #EC008C;
-margin-top: 15%;
 padding-left: 50px;
 padding-top: 10px;
 padding-bottom: 10px;
@@ -55,7 +80,9 @@ img.center {
 
 
 <body>
-<div class="bg-image" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/banner.jpg?raw=true" />
+<div class="flex-container">
+<img src="https://github.com/pandeyaakash/sokoliving/blob/main/images/banner.jpg?raw=true">
+</div>
 <h3 class="headtext">Coffees and Tisanes</h3>
 <div align="left">
 
@@ -74,7 +101,7 @@ img.center {
   </div>
   </li>
 
-    <li><button type="button" class="btn" data-toggle="collapse" data-target="#HGT"><p color="#696969" font-size="40px"><i>Hibiscus Gulab Tisane</i></p></button>
+    <li><button type="button" class="btn" data-toggle="collapse" data-target="#HGT"><p color="#696969"><i>Hibiscus Gulab Tisane</i></p></button>
   <div id="HGT" class="collapse">
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/3.jpg?raw=true" /> 
   </div>
