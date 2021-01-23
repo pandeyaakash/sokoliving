@@ -9,7 +9,6 @@
   display: flex;
   flex-wrap: nowrap;
   max-height: 40%;
-  margin-top: -15%;
 }
 
  
@@ -20,7 +19,7 @@ background-color: #EC008C;
 padding-left: 50px;
 padding-top: 10px;
 padding-bottom: 10px;
-font-size: 32px;
+font-size: 26px;
 }
 
 .btn {
@@ -131,8 +130,8 @@ img.banner{
   </a>
    </div>
   <br/>
-   <p color="#696969" align="center"><b>Contact us</b></p>
-   <p color="#696969" align="center"><b>sokoliving@gmail.com</b></p>
+   <p color="#696969" align="center">Contact us</p>
+   <p color="#696969" align="center">sokoliving@gmail.com</p>
 
 
 
