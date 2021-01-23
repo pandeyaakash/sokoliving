@@ -54,7 +54,8 @@ img.center {
 }
 
 img.banner{
-	max-height:40%
+	max-height:40%;
+	margin-top:-15%;
 }
 </style>
 
@@ -116,7 +117,7 @@ img.banner{
   <br>
   </div>
 
-  <p align="center" style="color:#696969; font-size:24px;">Soko Living , Soko Lage</h2>
+  <p align="center" style="color:#696969; font-size:24px;">Soko Living , Soko Lage</p>
   <p color="#696969" align="center" >सोको लीविंग, सोको लागे</p>
   <div align="center">
    <a  href="https://sokoliving.stores.instamojo.com/">
