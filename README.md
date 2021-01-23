@@ -71,6 +71,7 @@ img.banner{
 <div class="flex-container">
 <img class="banner" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/banner.jpg?raw=true">
 </div>
+<br/>
 <p class="headtext">Coffees and Tisanes</p>
 <div align="left">
 
