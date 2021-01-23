@@ -5,10 +5,14 @@
 <style>
  
  
- .flex-container {
-  display: flex;
-  flex-wrap: nowrap;
-  max-height: 50%;
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://github.com/pandeyaakash/sokoliving/blob/main/images/banner.jpg?raw=true");
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin-top: -17%;
 }
 
  
@@ -67,9 +71,7 @@ img.banner{
 
 
 <body>
-<div class="flex-container">
-<img class="banner" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/banner.jpg?raw=true">
-</div>
+<div class="hero-image"/>
 <br/>
 <p class="headtext"><b>Coffees and Tisanes</b></p>
 <div align="left">
