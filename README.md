@@ -12,7 +12,6 @@
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  margin-top: -17%;
 }
 
  
