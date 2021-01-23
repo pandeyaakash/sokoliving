@@ -8,7 +8,7 @@
  .flex-container {
   display: flex;
   flex-wrap: nowrap;
-  max-height: 40%;
+  max-height: 50%;
 }
 
  
@@ -17,8 +17,8 @@
 color: white;
 background-color: #EC008C;
 padding-left: 30px;
-padding-top: 10px;
-padding-bottom: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
 font-size: 16px;
 }
 
@@ -53,7 +53,7 @@ img.center {
 }
 
 img.banner{
-	max-height:40%;
+	max-height:50%;
 	margin-top:-15%;
 }
 </style>
@@ -71,43 +71,42 @@ img.banner{
 <img class="banner" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/banner.jpg?raw=true">
 </div>
 <br/>
-<p class="headtext">Coffees and Tisanes</p>
+<p class="headtext"><b>Coffees and Tisanes</b></p>
 <div align="left">
 
   <br>
-  <br>
   <ul>
-  <li><button type="button" class="btn" data-toggle="collapse" data-target="#LC"><p style="color:#696969;font-size:15px;margin-top:7px" ><i>Lavender Coffee</i></p></button>
+  <li><button type="button" class="btn" data-toggle="collapse" data-target="#LC"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Lavender Coffee</i></b></p></button>
   <div id="LC" class="collapse">
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/1.jpg?raw=true" /> 
   </div>
   </li>
 
-    <li><button type="button" class="btn" data-toggle="collapse" data-target="#GMC"><p style="color:#696969;font-size:15px;margin-top:7px" ><i>Gulab Mint Coffee</i></p></button>
+    <li><button type="button" class="btn" data-toggle="collapse" data-target="#GMC"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Gulab Mint Coffee</i></b></p></button>
   <div id="GMC" class="collapse">
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/2.jpg?raw=true" /> 
   </div>
   </li>
 
-    <li><button type="button" class="btn" data-toggle="collapse" data-target="#HGT"><p style="color:#696969;font-size:15px;margin-top:7px"><i>Hibiscus Gulab Tisane</i></p></button>
+    <li><button type="button" class="btn" data-toggle="collapse" data-target="#HGT"><p style="color:#696969;font-size:15px;margin-top:10px"><b><i>Hibiscus Gulab Tisane</i></b></p></button>
   <div id="HGT" class="collapse">
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/3.jpg?raw=true" /> 
   </div>
   </li>
 
-    <li><button type="button" class="btn" data-toggle="collapse" data-target="#GT"><p style="color:#696969;font-size:15px;margin-top:7px" ><i>Genda Tisane</i></p></button>
+    <li><button type="button" class="btn" data-toggle="collapse" data-target="#GT"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Genda Tisane</i></b></p></button>
   <div id="GT" class="collapse">
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/4.jpg?raw=true" /> 
   </div>
   </li>
 
-    <li><button type="button" class="btn" data-toggle="collapse" data-target="#LT"><p style="color:#696969;font-size:15px;margin-top:7px" ><i>Lavomile Tisane</i></p></button>
+    <li><button type="button" class="btn" data-toggle="collapse" data-target="#LT"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Lavomile Tisane</i></b></p></button>
   <div id="LT" class="collapse">
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/5.jpg?raw=true" /> 
   </div>
   </li>
 
-    <li><button type="button" class="btn" data-toggle="collapse" data-target="#SST"><p style="color:#696969;font-size:15px;margin-top:7px" ><i>Sab Spice Tisane</i></p></button>
+    <li><button type="button" class="btn" data-toggle="collapse" data-target="#SST"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Sab Spice Tisane</i></b></p></button>
   <div id="SST" class="collapse">
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/6.jpg?raw=true" /> 
   </div>
