@@ -5,12 +5,10 @@
 <style>
  
  
-.hero-image {
-  background-image: url("https://github.com/pandeyaakash/sokoliving/blob/main/images/banner.jpg?raw=true");
-  width: 100%;
-  height: 405px;
-  background-position: center;
-
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  max-height: 50%;
 }
 
 
@@ -22,27 +20,25 @@ padding-top: 5px;
 padding-bottom: 5px;
 font-size: 16px;
 }
-
 .btn {
   border: none;
   background-color: inherit;
+  padding: 14px 28px;
   padding: 0px;
   font-size: 40px;
   cursor: pointer;
   display: inline-block;
 }
-
 .btn:hover {background: #eee;}
-
 ul {
    list-style: none;
     vertical-align:middle;
 	font: bold 12px "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-
 ul li:before {
    color: #EC008C;
    content: "•";
+   font-size: 40px; /* or whatever */
    font-size: 30px; /* or whatever */
    vertical-align:middle;
 }
@@ -52,23 +48,21 @@ img.center {
   margin-right: auto;
   display: block;
 }
-
 img.banner{
-	height:100%;
-	width: auto;
+	max-height:50%;
+	margin-top:-15%;
 }
 </style>
-
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
-
-
 <body>
-<div class="hero-image"/>
+<div class="flex-container">
+<img class="banner" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/banner.jpg?raw=true">
+</div>
 <br/>
 <p class="headtext"><b>Coffees and Tisanes</b></p>
 <div align="left">
