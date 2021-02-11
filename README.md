@@ -49,7 +49,8 @@ img.center {
   display: block;
 }
 img.banner{
-	max-height:300px;
+	max-height:200px;
+	position: absolute;
 }
 </style>
 <head>
