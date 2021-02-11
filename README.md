@@ -49,7 +49,7 @@ img.center {
   display: block;
 }
 img.banner{
-	max-height:50%;
+	max-height:400px;
 }
 </style>
 <head>
