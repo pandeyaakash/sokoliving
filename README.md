@@ -52,8 +52,8 @@ img.banner{
 	max-height:400px;
 }
 
- @media (max-width:375px){
-        .img.banner {
+@media screen and (max-width:375px){
+        img.banner {
             max-height:175px;
         }
 
