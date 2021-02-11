@@ -50,7 +50,6 @@ img.center {
 }
 img.banner{
 	max-height:200px;
-	position: absolute;
 }
 </style>
 <head>
