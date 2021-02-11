@@ -50,7 +50,6 @@ img.center {
 }
 img.banner{
 	max-height:50%;
-	margin-top:-15%;
 }
 </style>
 <head>
