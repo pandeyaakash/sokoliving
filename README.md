@@ -52,7 +52,7 @@ img.banner{
 	max-height:400px;
 }
 
-@media screen and (max-width:375px){
+@media only screen and (max-width:375px){
         img.banner {
             max-height:175px;
         }
