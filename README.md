@@ -49,8 +49,15 @@ img.center {
   display: block;
 }
 img.banner{
-	max-height:200px;
+	max-height:400px;
 }
+
+ @media (max-width:375px){
+        .img.banner {
+            max-height:175px;
+        }
+
+    }
 </style>
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
