@@ -49,7 +49,7 @@ img.center {
   display: block;
 }
 img.banner{
-	max-height:400px;
+max-width: auto;
 }
 
 
@@ -62,13 +62,6 @@ img.banner{
 </head>
 <body>
 
-<script type="text/javascript">
-window.onload = function resizeBanner() {
-        if($(window).height < 800) {
-			$(bannerImg).css('src',https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true)
-		}
-    }
-</script>
 <div class="flex-container">
 <img class="banner" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/banner.jpg?raw=true" id = "bannerImg">
 </div>
