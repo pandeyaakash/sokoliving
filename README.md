@@ -61,8 +61,16 @@ img.banner{
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
+
+<script type="text/javascript">
+window.onload = function resizeBanner() {
+        if($(window).width < 350) {
+			$(bannerImg).css('max-height',200)
+		}
+    }
+</script>
 <div class="flex-container">
-<img class="banner" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/banner.jpg?raw=true">
+<img class="banner" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/banner.jpg?raw=true" id = "bannerImg">
 </div>
 <br/>
 <p class="headtext"><b>Coffees and Tisanes</b></p>
