@@ -152,8 +152,13 @@ img.banner{
   </div>
   <div align="center" >
      <a  href="https://www.instagram.com/soko.living/?hl=en">
-  <img align="center"  src="https://github.com/pandeyaakash/sokoliving/blob/main/images/insta.png?raw=true" />
+		<img align="center"  src="https://github.com/pandeyaakash/sokoliving/blob/main/images/insta.png?raw=true" />
   </a>
    </div>
+  <div align="center" >
+     <a  href="https://www.facebook.com/livingsoko/?ref=py_c">
+	   <img align="center"  src="https://github.com/pandeyaakash/sokoliving/blob/main/images/fb.jpg?raw=true" />
 
+  </a>
+   </div>
 </body>
