@@ -50,7 +50,7 @@ img.center {
 }
 img.banner{
 	max-height:30vh;
-	margin-top:15vh;
+	margin-top:-15vh;
 }
 
 
