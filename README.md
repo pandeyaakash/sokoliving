@@ -154,5 +154,4 @@ img.banner{
   </a>
    </div>
 
-</div>
 </body>
