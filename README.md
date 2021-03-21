@@ -150,12 +150,11 @@ img.banner{
    <p color="#696969" align="center">sokoliving@gmail.com</p>
 <br/>
   </div>
-  <div align="center" >
+  <div align="center" class = row >
      <a  href="https://www.instagram.com/soko.living/?hl=en">
 		<img align="center"  src="https://github.com/pandeyaakash/sokoliving/blob/main/images/insta.png?raw=true" />
   </a>
-   </div>
-  <div align="center" >
+
      <a  href="https://www.facebook.com/livingsoko/?ref=py_c">
 	   <img align="center"  src="https://github.com/pandeyaakash/sokoliving/blob/main/images/fb.jpg?raw=true" />
 
