@@ -52,6 +52,7 @@ img.banner{
 	max-height:400px;
 }
 
+
 </style>
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -104,8 +105,8 @@ img.banner{
   </div>
   </li>
   </ul>
-  <br>
-  <br>
+  <br />
+  <br />
   </div>
   
   <p class="headtext"><b>Aromatherapy Candle Jars</b></p>
@@ -132,9 +133,9 @@ img.banner{
   </li>
 
   </ul>
-  <br>
-  <br>
-  </div>
+  <br />
+  <br />
+ </div>
   <p align="center" style="color:#696969; font-size:24px;">Soko Living , Soko Lage</p>
   <p color="#696969" align="center" >सोको लीविंग, सोको लागे</p>
   <div align="center">
@@ -153,4 +154,5 @@ img.banner{
   </a>
    </div>
 
-
+</div>
+</body>
