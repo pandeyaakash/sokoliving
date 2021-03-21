@@ -49,7 +49,7 @@ img.center {
   display: block;
 }
 img.banner{
-max-width: auto;
+	max-height:30vh;
 }
 
 
