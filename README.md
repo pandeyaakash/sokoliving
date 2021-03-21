@@ -65,7 +65,7 @@ img.banner{
 <script type="text/javascript">
 window.onload = function resizeBanner() {
         if($(window).height < 800) {
-			$(bannerImg).css('max-height',200)
+			$(bannerImg).css('src',https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true)
 		}
     }
 </script>
