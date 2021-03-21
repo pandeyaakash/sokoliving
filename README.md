@@ -52,12 +52,6 @@ img.banner{
 	max-height:400px;
 }
 
-@media only screen and (max-width:375px){
-        img.banner {
-            max-height:175px;
-        }
-
-    }
 </style>
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -113,7 +107,34 @@ img.banner{
   <br>
   <br>
   </div>
+  
+  <p class="headtext"><b>Aromatherapy Candle Jars</b></p>
 
+<div align="left">
+
+  <ul>
+  <li><button type="button" class="btn" data-toggle="collapse" data-target="#BBC"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Beat Black</i></b></p></button>
+  <div id="BBC" class="collapse">
+        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/soko webpage-10.jpg?raw=true" /> 
+  </div>
+  </li>
+
+    <li><button type="button" class="btn" data-toggle="collapse" data-target="#MWC"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Morning Walk</i></b></p></button>
+  <div id="MWC" class="collapse">
+        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/soko webpage-11.jpg?raw=true" /> 
+  </div>
+  </li>
+
+    <li><button type="button" class="btn" data-toggle="collapse" data-target="#DJ"><p style="color:#696969;font-size:15px;margin-top:10px"><b><i>Dopamine Jar</i></b></p></button>
+  <div id="DJ" class="collapse">
+        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/soko webpage-12.jpg?raw=true" /> 
+  </div>
+  </li>
+
+  </ul>
+  <br>
+  <br>
+  </div>
   <p align="center" style="color:#696969; font-size:24px;">Soko Living , Soko Lage</p>
   <p color="#696969" align="center" >सोको लीविंग, सोको लागे</p>
   <div align="center">
