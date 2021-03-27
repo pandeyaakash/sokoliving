@@ -65,7 +65,7 @@ img.banner{
 
 <div class="flex-container">
 	<picture>
-		<img src="https://github.com/pandeyaakash/sokoliving/blob/main/images/banner.jpg?raw=true" width="auto" >
+		<img src="https://github.com/pandeyaakash/sokoliving/blob/main/images/banner.jpg?raw=true" width="auto" style="margin-top:-12vh">
 	</picture>
 </div>
 <br/>
