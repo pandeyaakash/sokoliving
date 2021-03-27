@@ -66,7 +66,7 @@ img.banner{
 <div class="flex-container">
 	<picture>
 		<source media="(min-width:350px)" srcset="https://github.com/pandeyaakash/sokoliving/blob/main/images/banner_phone.jpg?raw=true">
-		<img src="https://github.com/pandeyaakash/sokoliving/blob/main/images/banner_laptop.jpg?raw=true" width="auto" >
+		<img src="https://github.com/pandeyaakash/sokoliving/blob/main/images/banner.jpg?raw=true" width="auto" >
 	</picture>
 </div>
 <br/>
