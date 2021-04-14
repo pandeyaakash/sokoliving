@@ -143,7 +143,7 @@ img.banner{
   <p align="center" style="color:#696969; font-size:24px;">Soko Living , Soko Lage</p>
   <p color="#696969" align="center" >सोको लीविंग, सोको लागे</p>
   <div align="center">
-   <a  href="https://sokoliving.stores.instamojo.com/">
+   <a  href="https://www.instagram.com/soko.living/">
   <img align="center"  src="https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true" />
   </a>
 
@@ -153,8 +153,8 @@ img.banner{
 <br/>
   </div>
   <div align="center" class = row >
-     <a  href="https://www.instagram.com/soko.living/?hl=en">
-		<img align="center"  src="https://github.com/pandeyaakash/sokoliving/blob/main/images/insta.png?raw=true" />
+     <a  href="https://open.spotify.com/user/zebkpv7egzezdumytrtdxomn4?si=gumAkcT8TFer4PpUS6nWKg&utm_source=copy-link">
+		<img align="center"  src="https://github.com/pandeyaakash/sokoliving/blob/main/images/spotify.png?raw=true" />
   </a>
 
      <a  href="https://www.facebook.com/livingsoko/?ref=py_c">
