@@ -108,14 +108,14 @@ img.banner{
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Sab spice.jpg?raw=true" /> 
   </div>
   </li>
-    </li>
+
 
     <li><button type="button" class="btn" data-toggle="collapse" data-target="#FOF"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Flame of the Forest Tisane</i></b></p></button>
   <div id="FOF" class="collapse">
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Falme of the forest tisane.jpg?raw=true" /> 
   </div>
   </li>
-    </li>
+
 
     <li><button type="button" class="btn" data-toggle="collapse" data-target="#BMT"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Bluemine Tisane</i></b></p></button>
   <div id="BMT" class="collapse">
