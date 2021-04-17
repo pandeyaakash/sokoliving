@@ -118,7 +118,7 @@ img.banner{
 <div align="left">
 
   <ul>
-  <li><button type="button" class="btn" data-toggle="collapse" data-target="#BBC"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Beat Black</i></b></p></button>
+  <li><button type="button" class="btn" data-toggle="collapse" data-target="#BBC"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Beat Back</i></b></p></button>
   <div id="BBC" class="collapse">
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/soko webpage-10.jpg?raw=true" /> 
   </div>
