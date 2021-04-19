@@ -58,7 +58,7 @@ img.center {
   display: block;
 }
 img.banner{
-	max-height:30vh;
+	max-height:50vh;
 	margin-top:-12vh;
 }
 
