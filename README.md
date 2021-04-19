@@ -12,20 +12,29 @@
 }
 
 
-.headtext {
+.headtext2 {
 color: white;
 background-color: #EC008C;
 padding-left: 30px;
 padding-top: 2px;
 padding-bottom: 2px;
-font-size: 14px;
+font-size: 19px;
+}
+
+.headtext1 {
+color: white;
+background-color: #EDB272;
+padding-left: 30px;
+padding-top: 2px;
+padding-bottom: 2px;
+font-size: 19px;
 }
 .btn {
   border: none;
   background-color: inherit;
   padding: 14px 28px;
   padding: 0px;
-  font-size: 40px;
+  font-size: 30px;
   cursor: pointer;
   display: inline-block;
 }
@@ -69,19 +78,19 @@ img.banner{
 	</picture>
 </div>
 <br/>
-<p class="headtext"><b>Coffees and Tisanes</b></p>
+<p class="headtext1"><b>Coffees and Tisanes</b></p>
 <div align="left">
 
   <ul>
   <li><button type="button" class="btn" data-toggle="collapse" data-target="#LC"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Lavender Coffee</i></b></p></button>
   <div id="LC" class="collapse">
-        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Lavender coffee.jpg?raw=true" /> 
+        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Lavender Coffee.jpg?raw=true" /> 
   </div>
   </li>
 
     <li><button type="button" class="btn" data-toggle="collapse" data-target="#GMC"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Gulab Mint Coffee</i></b></p></button>
   <div id="GMC" class="collapse">
-        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Gulab mint coffee.jpg?raw=true" /> 
+        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Gulab Mint Coffee.jpg?raw=true" /> 
   </div>
   </li>
 
@@ -105,21 +114,21 @@ img.banner{
 
     <li><button type="button" class="btn" data-toggle="collapse" data-target="#SST"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Sab Spice Tisane</i></b></p></button>
   <div id="SST" class="collapse">
-        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Sab spice.jpg?raw=true" /> 
+        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Sab Spice Tisane.jpg?raw=true" /> 
   </div>
   </li>
 
 
     <li><button type="button" class="btn" data-toggle="collapse" data-target="#FOF"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Flame of the Forest Tisane</i></b></p></button>
   <div id="FOF" class="collapse">
-        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Falme of the forest tisane.jpg?raw=true" /> 
+        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Falme of the Forest Tisane.jpg?raw=true" /> 
   </div>
   </li>
 
 
     <li><button type="button" class="btn" data-toggle="collapse" data-target="#BMT"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Bluemine Tisane</i></b></p></button>
   <div id="BMT" class="collapse">
-        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/bluemine tisane.jpg?raw=true" /> 
+        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Bluemine Tisane.jpg?raw=true" /> 
   </div>
   </li>
   </ul>
@@ -127,7 +136,7 @@ img.banner{
   <br />
   </div>
   
-  <p class="headtext"><b>Aromatherapy Candle Jars</b></p>
+  <p class="headtext2"><b>Aromatherapy Candle Jars</b></p>
 
 <div align="left">
 
@@ -158,7 +167,7 @@ img.banner{
   <p color="#696969" align="center" >सोको लीविंग, सोको लागे</p>
   <div align="center">
    <a  href="https://www.instagram.com/soko.living/">
-  <img align="center"  src="https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true" />
+  <img align="center" style="width:20%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true" />
   </a>
 
   <br/>
