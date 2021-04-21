@@ -143,19 +143,19 @@ img.banner{
   <ul>
   <li><button type="button" class="btn" data-toggle="collapse" data-target="#BBC"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Beat Back</i></b></p></button>
   <div id="BBC" class="collapse">
-        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/soko webpage-10.jpg?raw=true" /> 
+        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Beat Back Candle.jpg?raw=true" /> 
   </div>
   </li>
 
-    <li><button type="button" class="btn" data-toggle="collapse" data-target="#MWC"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Morning Walk</i></b></p></button>
+    <li><button type="button" class="btn" data-toggle="collapse" data-target="#MWC"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Mountain Walk</i></b></p></button>
   <div id="MWC" class="collapse">
-        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/soko webpage-11.jpg?raw=true" /> 
+        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Mountain Walk Candle.jpg?raw=true" /> 
   </div>
   </li>
 
     <li><button type="button" class="btn" data-toggle="collapse" data-target="#DJ"><p style="color:#696969;font-size:15px;margin-top:10px"><b><i>Dopamine Jar</i></b></p></button>
   <div id="DJ" class="collapse">
-        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/soko webpage-12.jpg?raw=true" /> 
+        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Dopamine Candle.jpg?raw=true" /> 
   </div>
   </li>
 
@@ -167,7 +167,7 @@ img.banner{
   <p color="#696969" align="center" >सोको लीविंग, सोको लागे</p>
   <div align="center">
    <a  href="https://www.instagram.com/soko.living/">
-  <img align="center" style="width:20%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true" />
+  <img align="center" style="width:30%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true" />
   </a>
 
   <br/>
@@ -177,14 +177,14 @@ img.banner{
   </div>
   <div align="center" class = row >
        <a  href="https://www.instagram.com/soko.living/">
-		<img align="center"  src="https://github.com/pandeyaakash/sokoliving/blob/main/images/insta.png?raw=true" />
+		<img align="center" style="width:10%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/insta.png?raw=true" />
   </a>
      <a  href="https://open.spotify.com/user/zebkpv7egzezdumytrtdxomn4?si=gumAkcT8TFer4PpUS6nWKg&utm_source=copy-link">
-		<img align="center"  src="https://github.com/pandeyaakash/sokoliving/blob/main/images/spotify.png?raw=true" />
+		<img align="center" style="width:10%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/spotify.png?raw=true" />
   </a>
 
      <a  href="https://www.facebook.com/livingsoko/?ref=py_c">
-	   <img align="center"  src="https://github.com/pandeyaakash/sokoliving/blob/main/images/fb.jpg?raw=true" />
+	   <img align="center" style="width:10%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/fb.png?raw=true" />
 
   </a>
    </div>
