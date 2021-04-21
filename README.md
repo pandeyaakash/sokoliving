@@ -167,7 +167,7 @@ img.banner{
   <p color="#696969" align="center" >सोको लीविंग, सोको लागे</p>
   <div align="center">
    <a  href="https://www.instagram.com/soko.living/">
-  <img align="center" style="width:30%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true" />
+  <img align="center" style="width:50%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/shop.png?raw=true" />
   </a>
 
   <br/>
