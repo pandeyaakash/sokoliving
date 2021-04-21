@@ -128,7 +128,7 @@ img.banner{
 
     <li><button type="button" class="btn" data-toggle="collapse" data-target="#BMT"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Bluemine Tisane</i></b></p></button>
   <div id="BMT" class="collapse">
-        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/bluemine tisane.jpg?raw=true" /> 
+        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Blue Tisane.jpg?raw=true" /> 
   </div>
   </li>
   </ul>
