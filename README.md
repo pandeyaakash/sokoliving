@@ -84,13 +84,13 @@ img.banner{
   <ul>
   <li><button type="button" class="btn" data-toggle="collapse" data-target="#LC"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Lavender Coffee</i></b></p></button>
   <div id="LC" class="collapse">
-        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Lavender Coffee.jpg?raw=true" /> 
+        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Lavender coffee.jpg?raw=true" /> 
   </div>
   </li>
 
     <li><button type="button" class="btn" data-toggle="collapse" data-target="#GMC"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Gulab Mint Coffee</i></b></p></button>
   <div id="GMC" class="collapse">
-        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Gulab Mint Coffee.jpg?raw=true" /> 
+        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Gulab mint coffee.jpg?raw=true" /> 
   </div>
   </li>
 
@@ -121,14 +121,14 @@ img.banner{
 
     <li><button type="button" class="btn" data-toggle="collapse" data-target="#FOF"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Flame of the Forest Tisane</i></b></p></button>
   <div id="FOF" class="collapse">
-        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Falme of the Forest Tisane.jpg?raw=true" /> 
+        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Flame of the Forest Tisane.jpg?raw=true" /> 
   </div>
   </li>
 
 
     <li><button type="button" class="btn" data-toggle="collapse" data-target="#BMT"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Bluemine Tisane</i></b></p></button>
   <div id="BMT" class="collapse">
-        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Bluemine Tisane.jpg?raw=true" /> 
+        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/bluemine tisane.jpg?raw=true" /> 
   </div>
   </li>
   </ul>
