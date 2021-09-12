@@ -131,6 +131,17 @@ img.banner{
         <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Blue Tisane.jpg?raw=true" /> 
   </div>
   </li>
+  
+  
+  
+    <li><button type="button" class="btn" data-toggle="collapse" data-target="#MT"><p style="color:#696969;font-size:15px;margin-top:10px" ><b><i>Matcha Tisane</i></b></p></button>
+  <div id="MT" class="collapse">
+        <img align="center" width="100%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/Matcha Tisane.jpg?raw=true" /> 
+  </div>
+  </li>
+  
+  
+  
   </ul>
   <br />
   <br />
@@ -177,14 +188,14 @@ img.banner{
   </div>
   <div align="center" class = row >
        <a  href="https://www.instagram.com/soko.living/">
-		<img align="center" style="width:10%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/insta.png?raw=true" />
+		<img align="center" style="width:6%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/insta.png?raw=true" />
   </a>
      <a  href="https://open.spotify.com/user/zebkpv7egzezdumytrtdxomn4?si=gumAkcT8TFer4PpUS6nWKg&utm_source=copy-link">
-		<img align="center" style="width:10%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/spotify.png?raw=true" />
+		<img align="center" style="width:6%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/spotify.png?raw=true" />
   </a>
 
      <a  href="https://www.facebook.com/livingsoko/?ref=py_c">
-	   <img align="center" style="width:10%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/fb.png?raw=true" />
+	   <img align="center" style="width:6%" src="https://github.com/pandeyaakash/sokoliving/blob/main/images/fb.png?raw=true" />
 
   </a>
    </div>
